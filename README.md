@@ -12,7 +12,7 @@
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/HSSaemaul/HSSaemaul.eot?#iefix') format('embedded-opentype'),
          url('https://cdn.jsdelivr.net/gh/webfontworld/HSSaemaul/HSSaemaul.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/webfontworld/HSSaemaul/HSSaemaul.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/HHSSaemaulSBomBaram/HSSaemaul.ttf') format("truetype");
+         url('https://cdn.jsdelivr.net/gh/webfontworld/HSSaemaul/HSSaemaul.ttf') format("truetype");
     font-display: swap;
 } 
 </pre>
